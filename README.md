@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Adarsh Sethi!  
+# 👋 Hey, I'm Adarsh!  👨‍💻  
 
 🚀 **Passionate Software Engineer | Microservices | AI & Cloud Enthusiast**  
 
